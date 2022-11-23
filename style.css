@@ -124,7 +124,7 @@ nav .icon {
   flex-direction: column;
   align-items: center;
   margin: 0 auto;
-  background-image: url("background.jpg");
+  background-image: url("/background.jpg");
   background-size: cover;
 }
 
@@ -275,7 +275,7 @@ footer {
 
   /* CHANGE HOME PAGE'S BACKGROUND IMAGE TO SAMLL SIZE */
   .homemain {
-    background-image: url("smallbg.png");
+    background-image: url("/smallbg.png");
   }
 
   /* SET THE HEADINGS LAYOUT ON MOBILE DEVICES */
@@ -355,7 +355,7 @@ footer {
 
   /* CHANGE BACKGROUND IMAGE TO MEDIUM SIZE */
   .homemain {
-    background-image: url("mediumbg.png");
+    background-image: url("/mediumbg.png");
   }
 }
 
@@ -367,7 +367,7 @@ footer {
   }
   /* CHANGE BACKGROUND IMAGE TO SUPERSMALL SIZE */
   .homemain {
-    background-image: url("supersmallbg.png");
+    background-image: url("/supersmallbg.png");
   }
 
   /* MAKE THE HEADINGS AT THE HORIZONTAL CENTER  */
