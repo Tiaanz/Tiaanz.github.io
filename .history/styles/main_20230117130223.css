@@ -137,10 +137,6 @@ footer {
   main .introduction h1 {
     font-size: 2rem;
   }
-
-  .main-blog h1{
-    font-size: 1.5rem;
-  }
 }
 
 @media screen and (max-width: 400px) {
@@ -161,6 +157,6 @@ footer {
   }
 
   .main-blog h1{
-    font-size: 1.2rem;
+    font-size: ;
   }
 }

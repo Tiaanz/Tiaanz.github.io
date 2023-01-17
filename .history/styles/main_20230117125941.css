@@ -96,12 +96,11 @@ main .introduction p {
 
 .main-blog .css-image{
  max-width: 300px;
- margin: 1rem 0;
+ mar
 }
 
 .main-blog .div-image{
   max-width: 600px;
-  margin-top: 1rem;
  }
 
  .main-blog p{
@@ -137,10 +136,6 @@ footer {
   main .introduction h1 {
     font-size: 2rem;
   }
-
-  .main-blog h1{
-    font-size: 1.5rem;
-  }
 }
 
 @media screen and (max-width: 400px) {
@@ -158,9 +153,5 @@ footer {
   main .introduction h1 {
     font-size: 1rem;
     margin-bottom: 1rem;
-  }
-
-  .main-blog h1{
-    font-size: 1.2rem;
   }
 }
