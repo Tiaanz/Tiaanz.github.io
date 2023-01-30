@@ -132,7 +132,6 @@ main .introduction p {
 
 .main-blog h2{
   font-weight: 500;
-  margin-top:1rem ;
 }
 
 .main-blog h3{
@@ -160,7 +159,7 @@ main .introduction p {
  }
 
  .main-blog a{
-  text-decoration: underline;
+  
  }
 
  .main-blog .page-nav{
