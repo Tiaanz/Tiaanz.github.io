@@ -34,7 +34,9 @@ code {
   font-size: 105%;
 }
 
-
+.code{
+  background-color: black;
+}
 
 .container {
   display: flex;

@@ -34,7 +34,10 @@ code {
   font-size: 105%;
 }
 
-
+.code{
+  background-color: black;
+  color: ;
+}
 
 .container {
   display: flex;
